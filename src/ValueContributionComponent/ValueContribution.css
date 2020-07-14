@@ -1,0 +1,27 @@
+.carousel .slide {
+    background-color: #ffff !important;
+    text-align: initial;
+}
+.carousel .control-dots {
+    display: none;
+}
+.carousel .carousel-status {
+    display: none;
+}
+.carousel .control-next.control-arrow:before {
+    border-left: 8px solid black !important;
+}
+.carousel .control-prev.control-arrow:before {
+    border-right: 8px solid black !important;
+}
+.carousel.carousel-slider .control-arrow {
+    border-radius: 50%;
+    border: 1px solid black;
+    height: 25%;
+    width: 6%;
+    right: 20px !important;
+    top: 75px;
+}
+.carousel .control-prev.control-arrow {
+    left: 20px !important;
+}

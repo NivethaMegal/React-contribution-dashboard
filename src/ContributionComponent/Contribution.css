@@ -1,0 +1,19 @@
+.react-tabs__tab-panel--selected {
+  overflow-y: scroll;
+  height: 396px;
+  margin:0;
+}
+.react-tabs__tab-list {
+  margin: 0 !important;
+  font-size: 16px;
+  font-weight: bold;
+  color: #505050;
+  outline: 0;
+}
+.react-tabs__tab--selected {
+    color: #006778;
+    background-color: #ffffff;
+    border-radius:0 !important;
+    border:none;
+    border-top:3px solid #006778;
+}
